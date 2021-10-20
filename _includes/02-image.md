@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[MY portfolio Image] ("D:\photos\mines\100_0085.JPG")
